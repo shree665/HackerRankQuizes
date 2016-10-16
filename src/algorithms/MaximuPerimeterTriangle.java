@@ -22,6 +22,8 @@ public class MaximuPerimeterTriangle {
         in.close();
         //sorting an array
         Arrays.sort(arr);
+        
+        //counter to track
         int i = n - 3;
         
         //look for non-degenerate triangle (A + B <= C)
