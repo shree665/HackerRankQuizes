@@ -2,6 +2,11 @@ package algorithms;
 
 import java.util.Scanner;
 
+/**
+ * https://www.hackerrank.com/challenges/insertionsort1
+ * @author shree665
+ *
+ */
 public class InsertationSertPart1 {
 	public static void insertIntoSorted(int[] ar) {
         // Fill up this function

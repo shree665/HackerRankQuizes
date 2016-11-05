@@ -5,6 +5,12 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
+/**
+ * https://www.hackerrank.com/challenges/30-regex-patterns
+ * 
+ * @author shree665
+ *
+ */
 public class SimpleRegexExample {
 
 	public static void main(String[] args) {
