@@ -18,7 +18,7 @@ public class RansomNote {
         int n = in.nextInt();
         String magazine[] = new String[m];
         
-        //putting value magazine into the list
+        //counting words and putting that count into the map
         Map<String, Integer> magazineWordCount = new HashMap<>(m * 2);
         Map<String, Integer> ransonWordCount = new HashMap<>(n * 2);
         
